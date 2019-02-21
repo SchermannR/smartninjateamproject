@@ -1,0 +1,12 @@
+.backgroundContent{
+    background-image: url("../img/verysexydog.jpg");
+    width:100%;
+    height:100%;
+}
+body{
+    background-image: url("../img/verysexydog.jpg");
+}
+
+.test{
+  background-color:red;
+}
